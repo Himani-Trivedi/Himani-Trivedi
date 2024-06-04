@@ -1,6 +1,3 @@
-<h1 align="center">Hii 👋</h1>
-<h3 align="center">Learner</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himani-trivedi&label=Profile%20views&color=0e75b6&style=flat" alt="himani-trivedi" /> </p>
 
 <h3 align="center"> Connect with me</h3>
